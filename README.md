@@ -1,2 +1,4 @@
 # spreadsheet
-Created with CodeSandbox
+
+Convert excel date to readable format
+convert excel spreadsheet to json data
